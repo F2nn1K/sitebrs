@@ -890,7 +890,7 @@ section {
 .servico-imagem-container {
     position: relative;
     width: 100%;
-    height: 260px;
+    height: 320px;
     border-radius: 12px;
     overflow: hidden;
     margin-top: 12px;
@@ -1995,7 +1995,7 @@ section {
     }
 
     .servico-imagem-container {
-        height: 180px;
+        height: 230px;
     }
 
     .servico-label {
@@ -2551,7 +2551,7 @@ section {
     }
 
     .servico-imagem-container {
-        height: 220px;
+        height: 280px;
     }
 
     /* Timeline */
@@ -2877,7 +2877,7 @@ section {
     }
 
     .servico-imagem-container {
-        height: 160px;
+        height: 200px;
     }
 
     .carousel-nav {
